@@ -2,7 +2,6 @@ import os
 
 
 # ! Top-Down func definitions
-# Тут сейчас будем переделывать.
 def simple_search(
     path: str,
     query: str,
