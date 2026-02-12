@@ -8,7 +8,8 @@
 
 from tools import *
 import time
-
+    """_summary_
+    """
 
 def is_palindrome(text: str) -> bool:
     """_summary_
